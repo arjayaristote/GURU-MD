@@ -86,14 +86,16 @@
     "ytdlp-nodejs": "^2.3.5"
   },
   "overrides": {
-    "jimp": "1.6.0"
+    "jimp": "1.6.0",
+    "sharp": "0.32.6"
   },
   "resolutions": {
-    "jimp": "1.6.0"
+    "jimp": "1.6.0",
+    "sharp": "0.32.6"
   },
   "engines": {
-    "node": ">=18.0.0",
-    "npm": ">=8.0.0"
+    "node": "20.x",
+    "npm": "10.x"
   },
   "keywords": [
     "guru-md",
