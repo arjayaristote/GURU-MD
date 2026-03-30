@@ -57,11 +57,11 @@
   <img src="https://img.shields.io/badge/OFFICIAL%20WEBSITE-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" width="55%">
 </a>
 <br>
-<a href="https://whatsapp.com/channel/0029VbBNUAFFXUuUmJdrkj1f">
+<a href="https://whatsapp.com/channel/0029Vb7DCALGzzKKWJENC31w">
   <img src="https://img.shields.io/badge/WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="55%">
 </a>
 <br>
-<a href="https://chat.whatsapp.com/LBV3oBOkwOCILSvAUQqIAY">
+<a href="https://chat.whatsapp.com/JRysYlHb2LyKURMtjxnsBf?mode=gi_t">
   <img src="https://img.shields.io/badge/WHATSAPP%20GROUP-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" width="55%">
 </a>
 
